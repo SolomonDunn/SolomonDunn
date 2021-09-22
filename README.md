@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SolomonDunn
-- 👀 I’m interested in coding for process eficiency
+- 👀 I’m interested in coding for process efficiency
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on sceduling projects
+- 💞️ I’m looking to collaborate on scheduling projects
 - 📫 How to reach me solomondunn@gmail.com
 
 <!---
